@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "b00272e44759e617",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbe2a928d6b73ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7331fd3d1c4a9a9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8_Teses/The Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86c5c1fa8ab70901",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ee9578e002376a82",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5afd11f652b9eb4a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5c2f81aee6b30999",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9a80a420b69525d2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1bf968bfc19ec1db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ebd92b777e168d38",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "8_Teses/The Problem.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8143da4441a254fe",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "8_Teses/The Problem.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8a9e4af133e924ec",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "8_Teses/The Problem.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7331fd3d1c4a9a9b",
+  "lastOpenFiles": [
+    "8_Teses/Data Analytics Tools.canvas",
+    "8_Teses/The Problem.md",
+    "1_DataScience/Pre-Processing/Pre-Processing.md",
+    "8_Teses/Strategies.md",
+    "1_DataScience/Supervised Learning/Support Vector Machines.md",
+    "1_DataScience/Unsupervised Learning/Unsupervised Learning.md",
+    "1_DataScience/Supervised Learning/kNearestNeighbors.md",
+    "9_ImageRepo/Pasted image 20231002103219.png",
+    "9_ImageRepo/Pasted image 20231002103109.png",
+    "1_DataScience/Model Evaluation/Model Evaluation.md",
+    "1_DataScience/Supervised Learning/Supervised Learning.md",
+    "1_DataScience/Neural Networks/Activation Functions/Sigmoid.md",
+    "1_DataScience/Neural Networks/Neural Networks.md",
+    "1_DataScience/Neural Networks/Activation Functions/Activation Function.md",
+    "1_DataScience/Neural Networks/Activation Functions/ReLU.md",
+    "1_DataScience/Neural Networks/Backward Pass (Gradient Calculation).md",
+    "1_DataScience/Neural Networks/Forward Pass.md",
+    "8_Teses",
+    "28-09-2023.md",
+    "Linked In Update.md",
+    "Linked In Update 1.md",
+    "NN Studies - Frame 5.jpg",
+    "9_ImageRepo/NN Studies - Frame 5 (1).jpg",
+    "9_ImageRepo/3eee0b_33163162ddd94900b7d9f5b049e9b7e3~mv2.gif",
+    "9_ImageRepo/Pasted image 20230927145242.png",
+    "1_DataScience/Model Evaluation",
+    "1_DataScience/Dataset Types/Continuos (Qualitative).md",
+    "1_DataScience/Dataset Types/Dataset Types.md",
+    "1_DataScience/Dataset Types/Discrete (Qualitative).md",
+    "9_ImageRepo/Pasted image 20230927113721.png",
+    "9_ImageRepo/Pasted image 20230927113716.png",
+    "1_DataScience/Dataset Types/Ordinal (Qualitative).md",
+    "9_ImageRepo/Pasted image 20230927113447.png",
+    "1_DataScience/Dataset Types/Nominal (Qualitative).md",
+    "1_DataScience/Dataset Types",
+    "9_ImageRepo/Pasted image 20230927113307.png",
+    "1_DataScience/Neural Networks/Activation Functions",
+    "1_DataScience/Unsupervised Learning/kMeansClustering.md",
+    "1_DataScience/Pre-Processing",
+    "1_DataScience/Unsupervised Learning",
+    "1_DataScience/Dataset Types",
+    "1_DataScience/Neural Networks",
+    "1_DataScience/Supervised Learning",
+    "9_ImageRepo"
+  ]
+}

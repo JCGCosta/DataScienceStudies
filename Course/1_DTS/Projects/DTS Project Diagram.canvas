@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"group","id":"fe316c0fbe596ae0","x":640,"y":200,"width":760,"height":620,"label":" "},
+		{"type":"group","id":"aa8bb438c2fc62f0","x":640,"y":-240,"width":760,"height":440,"label":" "},
+		{"type":"text","text":"**Question**:\n- ID\n- Country\n- Description\n- Possible Answers\n- Right Answer\n- Question Difficulty","id":"24ec1c6d476d4f68","x":680,"y":240,"width":240,"height":260},
+		{"type":"file","file":"1_DTS/Projects/Country Quest.md","id":"666d04a0988af3b4","x":-40,"y":-240,"width":680,"height":1060},
+		{"type":"text","text":"Front-End","id":"f6d2fac2670b6858","x":680,"y":-76,"width":145,"height":56},
+		{"type":"text","text":"Back-End","id":"2bc809eecea801f9","x":1225,"y":-76,"width":140,"height":56},
+		{"type":"text","text":"Database","id":"7a1930cca44b82a1","x":1225,"y":100,"width":140,"height":60},
+		{"type":"text","text":"**Player**:\n- ID\n- Questions Answered (ID List)\n- Questions Answered Correctly (ID List)\n- Current Rank Position\n- Question Submitted (ID List)","id":"617f167997b6b51d","x":960,"y":240,"width":405,"height":260}
+	],
+	"edges":[
+		{"id":"459d1db8b96bd8dd","fromNode":"f6d2fac2670b6858","fromSide":"right","toNode":"2bc809eecea801f9","toSide":"left","label":"HTTP Request"},
+		{"id":"9345707e27e4d8cf","fromNode":"2bc809eecea801f9","fromSide":"top","toNode":"f6d2fac2670b6858","toSide":"top","label":"Request Callback"},
+		{"id":"12dfc04b57b5154d","fromNode":"7a1930cca44b82a1","fromSide":"top","toNode":"2bc809eecea801f9","toSide":"bottom","label":"Queries"}
+	]
+}
